@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Full Training</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Welcome</string>
+    <string name="welcome_signin">SIGN IN</string>
+    <string name="welcome_signup">SIGN UP</string>
+    <string name="LOGIN_DESC"> WelCome</string>
+    <string name="LOGIN_USERNAME">User Name</string>
+    <string name="LOGIN_PASSWORD">Password</string>
+    <string name="LOGIN_FORGET">Forget Password?</string>
+    <string name="LOGIN_SOCIAL_OPTIONS">Or Login With</string>
+    <string name="LOGIN_NO_ACCOUNT">"Don't Have An Account? "</string>
+    <string name="SIGN_UP_ERROR">Invalid text field please enter text only .</string>
+    <string name="SIGN_UP_BUTTON">SIGN Up</string>
+
+
+</resources>

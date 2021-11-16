@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">53dp</dimen>
+    <dimen name="button_width">179dp</dimen>
+    <dimen name="title_margin_top">35dp</dimen>
+    <dimen name="pt_question_top_margin">40dp</dimen>
+    <dimen name="pt_answer_top_margin">30dp</dimen>
+</resources>

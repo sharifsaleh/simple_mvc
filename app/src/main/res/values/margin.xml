@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="first_time_top">70dp</dimen>
+    <dimen name="profile_top">40dp</dimen>
+    <dimen name="profile_image">120dp</dimen>
+</resources>
